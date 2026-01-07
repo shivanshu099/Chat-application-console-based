@@ -46,4 +46,15 @@ chat_app/
 
 ## Screenshots
 
+![Chat application](https://github.com/shivanshu099/Chat-application-console-based/blob/main/Chat_application_Screenshot_1.png)
+
+![Chat application](https://github.com/shivanshu099/Chat-application-console-based/blob/main/Chat_application_Screenshot_2.png)
+
+
+
+
+
+
+
+
 
